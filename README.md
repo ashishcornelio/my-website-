@@ -7,7 +7,7 @@ Welcome to the repository for my personal portfolio website! This project serves
 This website is designed with a modern, dynamic UI featuring "claymorphism" aesthetics. It highlights my featured projects, provides links to my professional and social profiles, and offers a direct way to contact me.
 
 ### 🔗 Live Preview
-https://ashishcornelio.github.io/my-website-/
+https://ashishcornelio.github.io/my-website
 
 ## 🛠️ Built With
 
